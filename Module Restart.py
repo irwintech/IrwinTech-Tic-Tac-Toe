@@ -1,9 +1,4 @@
-1
-2
-3
-4
-5
-6
+
 def Restart():
     global p1,p2,mov,ActivePlayer
     p1.clear(); p2.clear()
